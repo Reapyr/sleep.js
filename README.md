@@ -10,7 +10,7 @@ Download the file and place it in the directory your page is in and then put the
 ##### Method 2
 Place the following code in your page's header tag.
 
-`<script src="http://www.reapyr.com/sleepjs/sleep.js">`
+`<script src="http://www.reapyr.com/projects/sleepjs/sleep.js">`
 
 
 ### How to use
