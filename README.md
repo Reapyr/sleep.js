@@ -15,6 +15,6 @@ Place the following code in your page's header tag.
 
 ### How to use
 
-Use the `sleep()` function anywhere on your page.
+Use the `sleep()` function anywhere in your scripts.
 
 `sleep(How_many_milliseconds)`
